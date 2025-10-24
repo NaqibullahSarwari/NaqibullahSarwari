@@ -1,6 +1,7 @@
 ### Hi, I'm Naqibullah!
 
 👨🏻‍💻 Self-taught Software Engineer sharing about my journey and learnings in tech<br/>
+👨🏻‍🎓 Full-Stack Engineer & Mobile Engineer 
 💼 My dream is to build my own successful startup <br/>
 🌨️ Currently learning about AI Engineering.
 
